@@ -1,9 +1,9 @@
 # ============================================================================
 # File        : supeRstition_function.R
-# File Author : Jason D. Miller
+# File Author : Ason Peikoff
 # Copyright   : 2015 
 # Description : Function to generate astrological/horoscope data from birth date
-# Repo URL    : https://github.com/hack-r/supeRstition.git
+# Repo URL    : https://github.com/asonpeikoff/supeRstition.git
 # ============================================================================
 cat("Welcome to supeRstition!")
 cat(" ")
