@@ -8,5 +8,5 @@ Peng, Xuehau Phillip
 
 ## Install the development version from GitHub:
 ```r
-devtools::install_github('hack-r/supeRstition')
+devtools::install_github('asonpeikoff/supeRstition')
 ```

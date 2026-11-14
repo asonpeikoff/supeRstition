@@ -1,9 +1,9 @@
 # ============================================================================
 # File        : supeRstition_data.R
-# File Author : Jason D. Miller
+# File Author : Ason Peikoff
 # Copyright   : 2015 
 # Description : Create some data objects used by supeRstition_function.R
-# Repo URL    : https://github.com/hack-r/supeRstition.git
+# Repo URL    : https://github.com/asonpeikoff/supeRstition.git
 # ============================================================================
 
 
